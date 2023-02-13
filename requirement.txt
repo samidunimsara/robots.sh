@@ -1,0 +1,4 @@
+https://github.com/projectdiscovery/subfinder
+https://github.com/projectdiscovery/httpx
+httpie (sudo apt  install httpie)
+https://github.com/tomnomnom/anew
