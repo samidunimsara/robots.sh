@@ -1,4 +1,7 @@
-# ffuf everything
+## Create a custom wordlist using /robots.txt
+
+
+### ffuf everything
 
 
 <pre><font color="#26A269"><b>samidu@sudoroot</b></font>:<font color="#12488B"><b>~</b></font>$ cat robot-words.txt
